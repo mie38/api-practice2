@@ -16,7 +16,7 @@
 
 ### おすすめの曲
 
-   ・ばかじゃないのに
+   ・[ばかじゃないのに](https://www.youtube.com/watch?v=YgmFIVOR1-I)
    ・機械油
    ・眩しいDNAだけ
    
