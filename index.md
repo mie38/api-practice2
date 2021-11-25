@@ -21,7 +21,11 @@
    ・眩しいDNAだけ
 
   
-  
+### 好きな作家さん
+　　・東野圭吾
+　　・住野よる
+　　・吉田篤弘
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
