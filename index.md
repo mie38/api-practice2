@@ -11,8 +11,8 @@
 
 ### 好きなアーティスト
 [ずっと真夜中でいいのに　](https://zutomayo.net/) 
-　　　　・[Twitter](https://twitter.com/zutomayo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-  ・[Instagram](https://www.instagram.com/zutomayo/?hl=ja)
+・[Twitter](https://twitter.com/zutomayo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+・[Instagram](https://www.instagram.com/zutomayo/?hl=ja）
 おすすめの曲
 　　　・ばかじゃないのに
 　　　・機械油
