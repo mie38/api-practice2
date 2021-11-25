@@ -1,6 +1,25 @@
-## Welcome to GitHub Pages
+## 遠山　美江　
 
-You can use the [editor on GitHub](https://github.com/mie38/api-practice2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 概要
+　・所属
+ 　・　情報学部
+ ・場所
+ 　・開志専門職大学 米山キャンパス
+  
+### 趣味
+　・お菓子作り　・ファッション　・メイク　・読書　・音楽聞くこと
+
+### 好きなアーティスト
+[ずっと真夜中でいいのに　](https://zutomayo.net/) 
+　　　　・[Twitter](https://twitter.com/zutomayo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+  ・[Instagram](https://www.instagram.com/zutomayo/?hl=ja)
+おすすめの曲
+　　　・ばかじゃないのに
+　　　・機械油
+　　　・眩しいDNAだけ
+
+  
+  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -8,23 +27,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
