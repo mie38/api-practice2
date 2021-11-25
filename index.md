@@ -10,6 +10,7 @@
 　・お菓子作り　・ファッション　・メイク　・読書　・音楽聞くこと
 
 ### 好きなアーティスト
+<img src="zutomayo.jpg" alt="">
 [ずっと真夜中でいいのに　](https://zutomayo.net/)  <br>
     ・[Twitter](https://twitter.com/zutomayo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)<br>
     ・[Instagram](https://www.instagram.com/zutomayo/?hl=ja)<br>
